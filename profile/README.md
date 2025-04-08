@@ -6,7 +6,7 @@
 
 🤩 | 디자인
 ---
-![image](https://github.com/user-attachments/assets/e74fdf34-a738-4b49-a085-b1a05ed6229f)
+![image](https://github.com/user-attachments/assets/394c55a1-b254-4e8f-bb41-cc9d7f86fe76)
 
 
 🛠️ | Stack
